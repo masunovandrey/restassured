@@ -42,7 +42,6 @@ Then you can start using rest assured. Create test class in the src/test like th
                 .then()
                 .log().all();
     }
-}
 ```
 
 Above test is making only one get request to google main page and expect 200 status code in response. Checking status code is simplest quality gate for requests. 
