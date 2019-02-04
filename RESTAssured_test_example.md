@@ -1,9 +1,9 @@
 # RESTAssured - test example
 
 #### If you want to start writing tests using rest assured, you need to install:
-- IDE (Eclipse, Itellij IDEA) 
-- Project management tool (Maven, Gradle)
-- JDK (don't forget about setup of environment variables)
+- IDE ([Eclipse](https://www.eclipse.org/downloads/packages/), [Itellij IDEA](https://www.jetbrains.com/idea/)) 
+- Project management tool ([Maven](https://maven.apache.org/), [Gradle](https://gradle.org/))
+- [JDK](https://www.oracle.com/technetwork/java/javase/downloads/index.html) (don't forget about setup of environment variables)
 
 Assume that you already know how to create maven or gradle projects. 
 Create one of them.
