@@ -1,4 +1,4 @@
-# REST Assured - logging
+# REST Assured - Logging
 
 If you would like to use rest assured for long term projects, you may come up with huge amount of tests. You should manage all tests somehow and common topics should be manageable.
 Logging is one of the things which should be configurable.
